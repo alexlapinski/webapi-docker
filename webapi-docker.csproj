@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
-    <RootNamespace>webapi_docker</RootNamespace>
+    <RootNamespace>TodoApi</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
